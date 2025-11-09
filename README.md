@@ -35,9 +35,12 @@ L’objectif est de démontrer une architecture **microservices** basée sur **R
 ## 🧱 Structure du projet
 
 1. Produit :
-   ![Titre de l’image](images/structureP.png)
+   
+   ![Structure](images/structureP.png)
 
-2. Achat :
+
+3. Achat :
+   
   ![Titre de l’image](images/structureA.png)
 
 
