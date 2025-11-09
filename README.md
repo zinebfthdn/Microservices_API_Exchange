@@ -36,7 +36,7 @@ L’objectif est de démontrer une architecture **microservices** basée sur **R
 
 1. Produit :
    
-   ![Structure](images/structureP.png)
+   ![Structure](images/structureB.png)
 
 
 3. Achat :
