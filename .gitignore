@@ -1,0 +1,17 @@
+# IntelliJ & project
+.idea/
+*.iml
+
+# Maven/Java
+target/
+*.class
+*.jar
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Database
+*.db
