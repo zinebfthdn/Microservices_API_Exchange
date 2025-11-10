@@ -52,6 +52,7 @@ L’objectif est de démontrer une architecture **microservices** basée sur **R
 
 2. Achat :
 
-
+ ![Titre de l’image](images/3.png)
+![Titre de l’image](images/4.png)
 
 
